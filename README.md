@@ -28,4 +28,16 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pjmahendra/Coding-club/tree/master/0111-minimum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/Pjmahendra/Coding-club/tree/master/2615-sum-of-distances) |
+## Hash Table
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/Pjmahendra/Coding-club/tree/master/2615-sum-of-distances) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/Pjmahendra/Coding-club/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
