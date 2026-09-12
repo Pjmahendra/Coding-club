@@ -32,11 +32,13 @@
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Pjmahendra/Coding-club/tree/master/0219-contains-duplicate-ii) |
 | [2615-sum-of-distances](https://github.com/Pjmahendra/Coding-club/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Pjmahendra/Coding-club/tree/master/0187-repeated-dna-sequences) |
+| [0219-contains-duplicate-ii](https://github.com/Pjmahendra/Coding-club/tree/master/0219-contains-duplicate-ii) |
 | [2615-sum-of-distances](https://github.com/Pjmahendra/Coding-club/tree/master/2615-sum-of-distances) |
 ## Prefix Sum
 |  |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Pjmahendra/Coding-club/tree/master/0187-repeated-dna-sequences) |
+| [0219-contains-duplicate-ii](https://github.com/Pjmahendra/Coding-club/tree/master/0219-contains-duplicate-ii) |
 ## Rolling Hash
 |  |
 | ------- |
