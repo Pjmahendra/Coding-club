@@ -21,10 +21,12 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Pjmahendra/Coding-club/tree/master/0187-repeated-dna-sequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Pjmahendra/Coding-club/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pjmahendra/Coding-club/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Pjmahendra/Coding-club/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pjmahendra/Coding-club/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -74,4 +76,12 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Pjmahendra/Coding-club/tree/master/0835-image-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pjmahendra/Coding-club/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pjmahendra/Coding-club/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
