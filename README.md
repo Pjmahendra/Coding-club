@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Pjmahendra/Coding-club/tree/master/0187-repeated-dna-sequences) |
+| [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
 | [0940-distinct-subsequences-ii](https://github.com/Pjmahendra/Coding-club/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pjmahendra/Coding-club/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Pjmahendra/Coding-club/tree/master/0219-contains-duplicate-ii) |
+| [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
 | [0835-image-overlap](https://github.com/Pjmahendra/Coding-club/tree/master/0835-image-overlap) |
 | [2615-sum-of-distances](https://github.com/Pjmahendra/Coding-club/tree/master/2615-sum-of-distances) |
 ## Hash Table
@@ -42,6 +44,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Pjmahendra/Coding-club/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Pjmahendra/Coding-club/tree/master/0219-contains-duplicate-ii) |
+| [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
 | [2615-sum-of-distances](https://github.com/Pjmahendra/Coding-club/tree/master/2615-sum-of-distances) |
 ## Prefix Sum
 |  |
@@ -84,4 +87,24 @@
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pjmahendra/Coding-club/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
+## Sorting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
+## Counting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
