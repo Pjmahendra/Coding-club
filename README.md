@@ -24,6 +24,7 @@
 | [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
 | [0940-distinct-subsequences-ii](https://github.com/Pjmahendra/Coding-club/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pjmahendra/Coding-club/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pjmahendra/Coding-club/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pjmahendra/Coding-club/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -86,10 +87,12 @@
 | ------- |
 | [0344-reverse-string](https://github.com/Pjmahendra/Coding-club/tree/master/0344-reverse-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pjmahendra/Coding-club/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pjmahendra/Coding-club/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pjmahendra/Coding-club/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pjmahendra/Coding-club/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Trie
 |  |
 | ------- |
