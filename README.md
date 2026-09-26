@@ -23,6 +23,7 @@
 | [0344-reverse-string](https://github.com/Pjmahendra/Coding-club/tree/master/0344-reverse-string) |
 | [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
 | [0940-distinct-subsequences-ii](https://github.com/Pjmahendra/Coding-club/tree/master/0940-distinct-subsequences-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pjmahendra/Coding-club/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pjmahendra/Coding-club/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pjmahendra/Coding-club/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pjmahendra/Coding-club/tree/master/3498-reverse-degree-of-a-string) |
@@ -43,6 +44,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Pjmahendra/Coding-club/tree/master/0219-contains-duplicate-ii) |
 | [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
 | [0835-image-overlap](https://github.com/Pjmahendra/Coding-club/tree/master/0835-image-overlap) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pjmahendra/Coding-club/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2615-sum-of-distances](https://github.com/Pjmahendra/Coding-club/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
@@ -50,6 +52,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Pjmahendra/Coding-club/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Pjmahendra/Coding-club/tree/master/0219-contains-duplicate-ii) |
 | [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pjmahendra/Coding-club/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2615-sum-of-distances](https://github.com/Pjmahendra/Coding-club/tree/master/2615-sum-of-distances) |
 ## Prefix Sum
 |  |
