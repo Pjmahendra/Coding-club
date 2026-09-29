@@ -48,6 +48,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Pjmahendra/Coding-club/tree/master/0219-contains-duplicate-ii) |
 | [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
 | [0835-image-overlap](https://github.com/Pjmahendra/Coding-club/tree/master/0835-image-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/Pjmahendra/Coding-club/tree/master/0973-k-closest-points-to-origin) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pjmahendra/Coding-club/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pjmahendra/Coding-club/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2615-sum-of-distances](https://github.com/Pjmahendra/Coding-club/tree/master/2615-sum-of-distances) |
@@ -114,11 +115,13 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Pjmahendra/Coding-club/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/Pjmahendra/Coding-club/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Pjmahendra/Coding-club/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/Pjmahendra/Coding-club/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -149,4 +152,24 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pjmahendra/Coding-club/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Pjmahendra/Coding-club/tree/master/0973-k-closest-points-to-origin) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Pjmahendra/Coding-club/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Pjmahendra/Coding-club/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Pjmahendra/Coding-club/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Pjmahendra/Coding-club/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
