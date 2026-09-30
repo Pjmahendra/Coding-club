@@ -5,16 +5,19 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pjmahendra/Coding-club/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Pjmahendra/Coding-club/tree/master/0623-add-one-row-to-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pjmahendra/Coding-club/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pjmahendra/Coding-club/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Pjmahendra/Coding-club/tree/master/0623-add-one-row-to-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pjmahendra/Coding-club/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pjmahendra/Coding-club/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Pjmahendra/Coding-club/tree/master/0623-add-one-row-to-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pjmahendra/Coding-club/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String
 |  |
@@ -40,6 +43,7 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pjmahendra/Coding-club/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Pjmahendra/Coding-club/tree/master/0623-add-one-row-to-tree) |
 ## Array
 |  |
 | ------- |
