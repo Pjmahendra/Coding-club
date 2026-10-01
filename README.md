@@ -22,6 +22,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/0020-valid-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/Pjmahendra/Coding-club/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Pjmahendra/Coding-club/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pjmahendra/Coding-club/tree/master/0451-sort-characters-by-frequency) |
@@ -148,11 +149,13 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pjmahendra/Coding-club/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
