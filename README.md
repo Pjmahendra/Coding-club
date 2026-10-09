@@ -31,6 +31,7 @@
 | [0692-top-k-frequent-words](https://github.com/Pjmahendra/Coding-club/tree/master/0692-top-k-frequent-words) |
 | [0940-distinct-subsequences-ii](https://github.com/Pjmahendra/Coding-club/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pjmahendra/Coding-club/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pjmahendra/Coding-club/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pjmahendra/Coding-club/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -114,6 +115,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pjmahendra/Coding-club/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pjmahendra/Coding-club/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pjmahendra/Coding-club/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Trie
@@ -158,6 +160,7 @@
 | [0020-valid-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pjmahendra/Coding-club/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -166,6 +169,7 @@
 | [0022-generate-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pjmahendra/Coding-club/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pjmahendra/Coding-club/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pjmahendra/Coding-club/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
